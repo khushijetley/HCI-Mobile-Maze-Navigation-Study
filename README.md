@@ -1,7 +1,7 @@
 # Mobile Maze Navigation: HCI Input Modality Study
 ### Controlled Empirical Study · Touch vs. Tilt vs. Hybrid Input · ACM-Format Research Paper
 
-![Maze game screenshot](screenshots/maze.png)
+![Maze game screenshot](maze.png)
 *Custom-built maze game developed in GDevelop, used across all three input conditions*
 
 ---
